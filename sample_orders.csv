@@ -1,0 +1,21 @@
+Order Id,Order Date,Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub Category,Product Id,cost price,List Price,Quantity,Discount Percent
+CA-2023-1000,2023-09-05,Standard Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Bookcases,FUR-BO-10001798,240,260,2,2
+CA-2023-1001,2023-03-24,First Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Chairs,FUR-CH-10000454,600,730,3,3
+CA-2023-1002,2023-03-25,Standard Class,Home Office,United States,Fremont,Nebraska,68025,Central,Office Supplies,Labels,OFF-LA-10000240,10,10,2,5
+CA-2023-1003,2023-02-05,Same Day,Corporate,United States,Fremont,Nebraska,68025,Central,Furniture,Tables,FUR-TA-10000577,780,960,5,2
+CA-2023-1004,2023-10-19,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,OFF-ST-10000760,20,20,2,5
+CA-2023-1005,2023-09-13,Standard Class,Home Office,United States,Orem,Utah,84057,West,Furniture,Furnishings,FUR-FU-10001487,50,50,7,3
+CA-2023-1006,2023-12-21,Same Day,Corporate,United States,Los Angeles,California,90049,West,Office Supplies,Art,OFF-AR-10002833,10,10,4,3
+CA-2023-1007,2023-11-26,Same Day,Home Office,United States,Los Angeles,California,90049,West,Technology,Phones,TEC-PH-10002275,860,910,6,5
+CA-2023-1008,2023-06-30,First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,OFF-BI-10003910,20,20,3,2
+CA-2023-1009,2023-11-18,Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Appliances,OFF-AP-10002892,90,110,5,3
+CA-2023-1010,2023-12-02,Same Day,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Tables,FUR-TA-10001539,1470,1710,9,3
+CA-2023-1011,2023-03-28,First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,TEC-PH-10002033,750,910,4,3
+CA-2023-1012,2023-02-19,Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,OFF-PA-10002365,20,20,3,3
+CA-2023-1013,2023-05-11,Same Day,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,OFF-BI-10003656,360,410,3,2
+CA-2023-1014,2023-05-04,First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Appliances,OFF-AP-10002311,60,70,5,5
+CA-2023-1015,2023-03-27,Not Available,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Binders,OFF-BI-10000756,0,0,3,5
+CA-2023-1016,2023-08-31,Standard Class,Consumer,United States,Richardson,Texas,75080,Central,Office Supplies,Storage,OFF-ST-10004186,610,670,6,3
+CA-2023-1017,2023-04-14,First Class,Consumer,United States,Richardson,Texas,75080,Central,Office Supplies,Storage,OFF-ST-10000107,60,60,2,4
+CA-2023-1018,2023-05-09,Second Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Art,OFF-AR-10003056,10,10,2,4
+CA-2023-1019,2023-10-27,Same Day,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,TEC-PH-10001949,170,210,3,3

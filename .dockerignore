@@ -1,0 +1,6 @@
+# Only ./app is copied into the image, so keep everything else out of the build context.
+# (Without this, Docker uploads terraform/.terraform provider binaries on every build.)
+.git
+terraform
+tests
+*.md
